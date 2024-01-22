@@ -1,0 +1,15 @@
+# tensorflow==2.12.0
+pandas 
+dvc
+mlflow
+numpy
+python-box
+pyYAML
+tqdm
+ensure
+joblib
+types-PyYAML
+Flask
+Flask-Cors
+gdown
+-e .
