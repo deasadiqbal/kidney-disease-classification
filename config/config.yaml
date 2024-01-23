@@ -2,6 +2,6 @@ artifacts_roots: artifacts
 
 data_ingestion:
   root_dir: artifacts/data_ingestion
-  data_url: https://drive.google.com/file/d/19ixn3SPnjTUKn5H1IAIFQ-CwVqB-EZkk/view?usp=sharing
-  local_data_path: artifacts/data_ingestion/kidney_disease.zip
-  unzip_path: artifacts/data_ingestion
+  data_url: https://drive.google.com/file/d/1hInkcBgMfy4oKWC18vPMqwiiz4WdhNf7/view?usp=sharing
+  local_data_path: artifacts/data_ingestion/kidney_disease_dataset.zip
+  unzip_data_path: artifacts/data_ingestion

@@ -3,7 +3,7 @@ import yaml
 import joblib
 import json
 from pathlib import Path 
-from mlops_wine_quality import logger
+from kidneyDiseaseClassifire import logger
 from box.exceptions import BoxValueError
 from box import ConfigBox
 from ensure import ensure_annotations
