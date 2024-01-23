@@ -14,7 +14,7 @@ class DataIngestion:
         try:
             url = self.config.data_url
             local_data_path = self.config.local_data_path
-            # os.makedirs('arifacts/data_ingestion', exist_ok=True)
+            # os.makedirs('artifacts/data_ingestion', exist_ok=True)
             logger.info(f"Downloading data from {url} to {local_data_path}")
 
             dataFile_id = url.split('/')[-2]
